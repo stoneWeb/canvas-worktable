@@ -1,0 +1,21 @@
+.main{
+  width: 800px;
+  height: 600px;
+  margin: 100px auto;
+  position: relative;
+  background-color: #f5f5f5;
+}
+.canvas-move {
+  cursor: url(./assets/drag11.png), auto!important;
+}
+.canvas-moved {
+  cursor: url(./assets/drag21.png), auto!important;
+}
+.tools{
+  position: absolute;
+  top: -105px;
+  left: 0;
+}
+.tools span{
+  margin-right: 20px;
+}
