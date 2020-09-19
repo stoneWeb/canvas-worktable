@@ -2,8 +2,10 @@
  * @Author: DT
  * @Description: ...
  * @Date: 2020-09-18 13:26:32
- * @LastEditTime: 2020-09-18 21:38:22
+ * @LastEditTime: 2020-09-19 09:07:52
  */
+
+ // 先随便写下，随后整理代码
 import { fabric } from "fabric";
 
 class Board {
@@ -17,16 +19,14 @@ class Board {
         this.LISTAREA = [50, 50, 700, 700];
         this.CARDSIZE = [180, 180];
         this.events = {};
-        console.log(this.canvas)
         // obj.selectable = false  禁止拖拽
         this.loadSvgs(() => {
             this.initGlobalEvents();
             this.createSomething();
-            console.log(this.cacheSvg)
         });
     }
     svgSources = {
-        "dotmenu": require('./assets/icons/dotmenu.svg'),
+        "dotmenu": 'https://github.com/stoneWeb/canvas-worktable/raw/master/src/assets/icons/dotmenu.svg',
     }
     cacheSvg = {}
     eventTypes = {
