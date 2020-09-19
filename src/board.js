@@ -2,10 +2,10 @@
  * @Author: DT
  * @Description: ...
  * @Date: 2020-09-18 13:26:32
- * @LastEditTime: 2020-09-19 09:07:52
+ * @LastEditTime: 2020-09-19 09:13:04
  */
 
- // 先随便写下，随后整理代码
+ // 先随便写下功能
 import { fabric } from "fabric";
 
 class Board {
@@ -26,7 +26,7 @@ class Board {
         });
     }
     svgSources = {
-        "dotmenu": 'https://github.com/stoneWeb/canvas-worktable/raw/master/src/assets/icons/dotmenu.svg',
+        "dotmenu": "https://github.com/stoneWeb/canvas-worktable/raw/master/src/assets/icons/dotmenu.svg",
     }
     cacheSvg = {}
     eventTypes = {
