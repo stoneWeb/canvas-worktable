@@ -2,7 +2,7 @@
  * @Author: DT
  * @Description: ...
  * @Date: 2020-09-18 13:26:32
- * @LastEditTime: 2020-09-23 07:53:19
+ * @LastEditTime: 2020-09-23 08:44:55
  */
 
  // 先随便写下功能
@@ -220,7 +220,7 @@ class Board {
         }
         let scale = 1;
         this.canvas.on('mouse:down', e => {
-            const pointer = this.canvas.getPointer(e);
+            // const pointer = this.canvas.getPointer(e);
             if (holdKeys.spaceKey) {
                 actions.moveBoard = 1;
                 this.canvas.upperCanvasEl.classList.remove('canvas-move');
