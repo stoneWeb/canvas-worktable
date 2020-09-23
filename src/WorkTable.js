@@ -2,7 +2,7 @@
  * @Author: DT
  * @Description: ...
  * @Date: 2020-09-18 11:21:55
- * @LastEditTime: 2020-09-18 18:12:38
+ * @LastEditTime: 2020-09-22 20:03:53
  */
 import React, { Component } from 'react';
 import './main.css';
@@ -29,7 +29,7 @@ class WorkTable extends Component {
     return (
       <div className="main">
         <div className="tools">
-          <p>1. 按住空格键拖拽画布<br/>2. macOS触摸板手势缩放画布</p>
+          <p>1. 按住空格键拖拽画布<br/>2. macOS触摸板手势缩放画布<br/>3. windows系统按着ctrl键鼠标滚轮缩放画布</p>
           <span>zoom: {parseInt(this.state.zoom*100)}%</span>
           <span>canvas dragging: {this.state.dragPan?'yes':'no'}</span>
         </div>
