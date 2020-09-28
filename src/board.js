@@ -2,7 +2,7 @@
  * @Author: DT
  * @Description: ...
  * @Date: 2020-09-18 13:26:32
- * @LastEditTime: 2020-09-23 08:44:55
+ * @LastEditTime: 2020-09-28 11:35:01
  */
 
  // 先随便写下功能
@@ -16,7 +16,7 @@ class Board {
         canvas.height = this.viewHeight = canvas.parentNode.offsetHeight;
         this.canvas = new fabric.Canvas(canvas);
         this.canvas.selection = false;
-        this.LISTAREA = [50, 50, 700, 700];
+        this.LISTAREA = [50, 250, 700, 700];
         this.CARDSIZE = [180, 180];
         this.events = {};
         this.injectCss();
