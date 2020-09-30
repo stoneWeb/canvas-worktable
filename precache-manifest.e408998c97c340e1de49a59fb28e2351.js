@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0eb207514e9a5e05f1222384d41a359e",
+    "revision": "8f446dfd7ad3f3e9988d53ff12093377",
     "url": "/canvas-worktable/index.html"
   },
   {
-    "revision": "a78e28eb74891d5b4041",
+    "revision": "0a88e99b0bd0f2aa189a",
     "url": "/canvas-worktable/static/css/main.4d625396.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/canvas-worktable/static/js/2.95c743b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a78e28eb74891d5b4041",
-    "url": "/canvas-worktable/static/js/main.519687f1.chunk.js"
+    "revision": "0a88e99b0bd0f2aa189a",
+    "url": "/canvas-worktable/static/js/main.c2a019e7.chunk.js"
   },
   {
     "revision": "44189c2e6b1928325155",

@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/canvas-worktable/static/css/main.4d625396.chunk.css",
-    "main.js": "/canvas-worktable/static/js/main.519687f1.chunk.js",
-    "main.js.map": "/canvas-worktable/static/js/main.519687f1.chunk.js.map",
+    "main.js": "/canvas-worktable/static/js/main.c2a019e7.chunk.js",
+    "main.js.map": "/canvas-worktable/static/js/main.c2a019e7.chunk.js.map",
     "runtime-main.js": "/canvas-worktable/static/js/runtime-main.393eff8b.js",
     "runtime-main.js.map": "/canvas-worktable/static/js/runtime-main.393eff8b.js.map",
     "static/js/2.95c743b5.chunk.js": "/canvas-worktable/static/js/2.95c743b5.chunk.js",
     "static/js/2.95c743b5.chunk.js.map": "/canvas-worktable/static/js/2.95c743b5.chunk.js.map",
     "index.html": "/canvas-worktable/index.html",
-    "precache-manifest.6240d1796c03a02a42e35690b664124b.js": "/canvas-worktable/precache-manifest.6240d1796c03a02a42e35690b664124b.js",
+    "precache-manifest.e408998c97c340e1de49a59fb28e2351.js": "/canvas-worktable/precache-manifest.e408998c97c340e1de49a59fb28e2351.js",
     "service-worker.js": "/canvas-worktable/service-worker.js",
     "static/css/main.4d625396.chunk.css.map": "/canvas-worktable/static/css/main.4d625396.chunk.css.map",
     "static/js/2.95c743b5.chunk.js.LICENSE.txt": "/canvas-worktable/static/js/2.95c743b5.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.393eff8b.js",
     "static/js/2.95c743b5.chunk.js",
     "static/css/main.4d625396.chunk.css",
-    "static/js/main.519687f1.chunk.js"
+    "static/js/main.c2a019e7.chunk.js"
   ]
 }
