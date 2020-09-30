@@ -7,7 +7,7 @@
 
  // 先随便写下功能
 import { fabric } from "fabric";
-import { APITypes, CanvasEvent } from './eventManage';
+import { CanvasEvent } from './eventManage';
 
 class Board {
     constructor (canvas) {
